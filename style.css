@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-image: url('doodle_bg.avif');
+    background-repeat: repeat;
+    background-size: 30%;
+}
+
+#body_div{
+    height: 620px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 42.5px;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    padding-top: 15px;
+    background-color: rgba(255, 246, 235, 0.823);
+}
+
+h2{
+    font-size: 48px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+canvas{
+    margin-top: 130px;
+    background-color: #FFFFFF;
+}
